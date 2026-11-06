@@ -1,5 +1,4 @@
-
-/*
+﻿/*
 Nombre: Isaac Enmanuel Martinez Cuello
 Fecha: 06/11/2026
 Descripción: Programa de consola que muestra Hola Mundo y una tarjeta de presentación.
@@ -21,7 +20,7 @@ class Program
         Console.WriteLine("|                                              |");
         Console.WriteLine("|          TARJETA DE PRESENTACION             |");
         Console.WriteLine("|                                              |");
-        Console.WriteLine("| Nombre: Isaac Enmanuel Martinez Cuello      |");
+        Console.WriteLine("| Nombre: Isaac Enmanuel Martinez Cuello       |");
         Console.WriteLine("| Matricula: 2025-1908                         |");
         Console.WriteLine("| Carrera: Desarrollo de software              |");
         Console.WriteLine("| Seccion: 7                                   |");
@@ -32,4 +31,3 @@ class Program
         Console.WriteLine("*==============================================*");
     }
 }
-
